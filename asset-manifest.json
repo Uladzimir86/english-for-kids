@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b793c148.chunk.css",
-    "main.js": "/static/js/main.a62c4972.chunk.js",
-    "main.js.map": "/static/js/main.a62c4972.chunk.js.map",
+    "main.css": "/static/css/main.3f155964.chunk.css",
+    "main.js": "/static/js/main.ae68d377.chunk.js",
+    "main.js.map": "/static/js/main.ae68d377.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d5109d3.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d5109d3.js.map",
     "static/js/2.38ba155e.chunk.js": "/static/js/2.38ba155e.chunk.js",
     "static/js/2.38ba155e.chunk.js.map": "/static/js/2.38ba155e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b793c148.chunk.css.map": "/static/css/main.b793c148.chunk.css.map",
+    "static/css/main.3f155964.chunk.css.map": "/static/css/main.3f155964.chunk.css.map",
     "static/js/2.38ba155e.chunk.js.LICENSE.txt": "/static/js/2.38ba155e.chunk.js.LICENSE.txt",
     "static/media/header.css": "/static/media/Rectangle3.fce27975.svg",
     "static/media/login.css": "/static/media/Roboto-Light.368aee5f.ttf",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.4d5109d3.js",
     "static/js/2.38ba155e.chunk.js",
-    "static/css/main.b793c148.chunk.css",
-    "static/js/main.a62c4972.chunk.js"
+    "static/css/main.3f155964.chunk.css",
+    "static/js/main.ae68d377.chunk.js"
   ]
 }
